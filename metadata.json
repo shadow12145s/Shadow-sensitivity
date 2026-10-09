@@ -1,0 +1,6 @@
+{
+  "name": "Shadow Sensi AI",
+  "description": "Esports AI gaming sensitivity and performance assistant for Free Fire, Free Fire MAX, BGMI, and PUBG Mobile.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
